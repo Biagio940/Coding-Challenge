@@ -1,0 +1,67 @@
+body{
+  background-image: url(background.JPG);
+  background-size: 100%;
+  font-family: "Poppins", sans-serif;
+}
+.Container{
+  width: 65%; height: 75%;
+  margin: auto;
+  background-color: rgba(5,5,5,0.50);
+  border-radius: 2%;
+  padding-bottom: 5%;
+  padding-top: 2%;
+}
+.logo-title{
+  padding-top: 7%;
+}
+#logo{
+  width: 20%; height: 20%;
+  margin: auto;
+  display: block;
+}
+h1{
+  text-align: center;
+  color: rgba(0,255,55,1);
+  margin: 0;
+}
+nav{
+  background-color: rgba(40, 217, 0, 1);
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: center;
+  margin: auto;
+  width: 70%;
+}
+main{
+  margin: auto;
+  width: 70%;
+}
+section{
+  color: white;
+}
+h2{
+  display: inline-block;
+  margin-bottom: 0;
+}
+p::before{
+  content: ' \21A3';
+}
+p{
+  margin: 0;
+}
+.load{
+  height: 30px;
+  border-radius: 5px;
+}
+#gino22{
+  background-color: rgba(240, 193, 91, 1);
+  width: 47%;
+}
+#mike24{
+  background-color: rgba(40, 217, 0, 1);
+  width: 68%;
+}
+#fede154{
+  background-color: rgba(230, 90, 92, 1);
+  width: 24%;
+}
